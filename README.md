@@ -2,7 +2,7 @@
 
 ## Gabriel Dillenburg
 
-I'm a software engineer focusing on `NodeJS`/`TypeScript` and Golang.
+I'm a software engineer focusing on `NodeJS`/`TypeScript` and `Go (Golang)`.
 ## Get in touch
 - Gmail: dillenburg.gabriel@gmail.com
 - Telegram: [@GabrielDillenburg](https://t.me/GabrielDillenburg) 
