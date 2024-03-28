@@ -3,7 +3,7 @@
 ## Gabriel Dillenburg
 
 I'm a software engineer focusing on apps development with `NodeJS`/`TypeScript`, `Go` and `Java`.
-My favorite subject is application performance and concurrent programming! 🧑🏻‍💻
+My favorite subject is application performance and concurrent/parallel computing! 🧑🏻‍💻
 
 ## Get in touch
 - Gmail: dillenburg.gabriel@gmail.com
